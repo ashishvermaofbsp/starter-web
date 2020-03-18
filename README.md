@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 commit
+
+## Deployment
+
+on how to deploy particular web project
