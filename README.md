@@ -24,4 +24,4 @@ changes_2
 
 ### Copyright
 
-Git Training
+@Git Training. All Right Reserved
