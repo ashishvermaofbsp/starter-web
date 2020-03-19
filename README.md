@@ -17,3 +17,5 @@ commit
 ## Deployment
 
 on how to deploy particular web project
+changes_1
+changes_2
